@@ -1,0 +1,1284 @@
+[
+  {
+    "TicketID": 28890,
+    "CategoryID": 20458,
+    "CustomerID": 97999,
+    "CustomerName": "Kirby Ferguson",
+    "CustomerEmail": "kirby.ferguson@neoassist.com",
+    "DateCreate": "2018-12-24 07:55:34",
+    "DateUpdate": "2019-01-21 05:08:29",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-24 07:55:34",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:08:29",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-24 07:55:34",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 28891,
+    "CategoryID": 69121,
+    "CustomerID": 97951,
+    "CustomerName": "Rush Molina",
+    "CustomerEmail": "rush.molina@neoassist.com",
+    "DateCreate": "2018-12-21 10:38:45",
+    "DateUpdate": "2019-01-21 05:25:43",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-21 10:38:45",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:25:43",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28892,
+    "CategoryID": 52544,
+    "CustomerID": 97914,
+    "CustomerName": "Nola Vance",
+    "CustomerEmail": "nola.vance@neoassist.com",
+    "DateCreate": "2018-12-17 12:20:14",
+    "DateUpdate": "2019-01-21 01:33:40",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 12:20:14",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:33:40",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28893,
+    "CategoryID": 19107,
+    "CustomerID": 97996,
+    "CustomerName": "Lacy Mosley",
+    "CustomerEmail": "lacy.mosley@neoassist.com",
+    "DateCreate": "2018-12-15 05:33:24",
+    "DateUpdate": "2019-01-21 04:09:18",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-15 05:33:24",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:09:18",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-15 05:33:24",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 28894,
+    "CategoryID": 65931,
+    "CustomerID": 97908,
+    "CustomerName": "Ada Hood",
+    "CustomerEmail": "ada.hood@neoassist.com",
+    "DateCreate": "2018-12-19 06:25:00",
+    "DateUpdate": "2019-01-21 04:10:21",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-19 06:25:00",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:10:21",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28895,
+    "CategoryID": 33404,
+    "CustomerID": 97923,
+    "CustomerName": "Silvia Matthews",
+    "CustomerEmail": "silvia.matthews@neoassist.com",
+    "DateCreate": "2018-12-08 09:07:19",
+    "DateUpdate": "2019-01-21 05:36:59",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-08 09:07:19",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:36:59",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28896,
+    "CategoryID": 56093,
+    "CustomerID": 97892,
+    "CustomerName": "Day Fuentes",
+    "CustomerEmail": "day.fuentes@neoassist.com",
+    "DateCreate": "2018-12-26 04:15:51",
+    "DateUpdate": "2019-01-21 12:13:10",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-26 04:15:51",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:13:10",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28897,
+    "CategoryID": 8905,
+    "CustomerID": 97977,
+    "CustomerName": "Linda Bonner",
+    "CustomerEmail": "linda.bonner@neoassist.com",
+    "DateCreate": "2018-12-30 06:02:23",
+    "DateUpdate": "2019-01-21 12:47:33",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-30 06:02:23",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:47:33",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-30 06:02:23",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 28898,
+    "CategoryID": 37879,
+    "CustomerID": 97966,
+    "CustomerName": "Tisha Hawkins",
+    "CustomerEmail": "tisha.hawkins@neoassist.com",
+    "DateCreate": "2018-12-10 06:36:47",
+    "DateUpdate": "2019-01-21 12:05:56",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-10 06:36:47",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:05:56",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 28899,
+    "CategoryID": 10523,
+    "CustomerID": 97975,
+    "CustomerName": "Rosella Woodard",
+    "CustomerEmail": "rosella.woodard@neoassist.com",
+    "DateCreate": "2018-12-08 08:30:27",
+    "DateUpdate": "2019-01-21 02:07:12",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-08 08:30:27",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:07:12",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-08 08:30:27",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288910,
+    "CategoryID": 7224,
+    "CustomerID": 97957,
+    "CustomerName": "Hart Gates",
+    "CustomerEmail": "hart.gates@neoassist.com",
+    "DateCreate": "2018-12-20 06:01:29",
+    "DateUpdate": "2019-01-21 10:44:50",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-20 06:01:29",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 10:44:50",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-20 06:01:29",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288911,
+    "CategoryID": 24644,
+    "CustomerID": 97922,
+    "CustomerName": "Tracie Wade",
+    "CustomerEmail": "tracie.wade@neoassist.com",
+    "DateCreate": "2019-01-01 11:51:49",
+    "DateUpdate": "2019-01-21 02:29:33",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-01 11:51:49",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:29:33",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-01 11:51:49",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288912,
+    "CategoryID": 67155,
+    "CustomerID": 97962,
+    "CustomerName": "Rivas Walls",
+    "CustomerEmail": "rivas.walls@neoassist.com",
+    "DateCreate": "2018-12-20 04:09:51",
+    "DateUpdate": "2019-01-21 04:58:49",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-20 04:09:51",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:58:49",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288913,
+    "CategoryID": 17006,
+    "CustomerID": 97905,
+    "CustomerName": "Andrea Russell",
+    "CustomerEmail": "andrea.russell@neoassist.com",
+    "DateCreate": "2018-12-25 03:41:10",
+    "DateUpdate": "2019-01-21 04:35:05",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-25 03:41:10",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:35:05",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-25 03:41:10",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288914,
+    "CategoryID": 15866,
+    "CustomerID": 97906,
+    "CustomerName": "Santana Cole",
+    "CustomerEmail": "santana.cole@neoassist.com",
+    "DateCreate": "2018-12-03 07:14:15",
+    "DateUpdate": "2019-01-21 06:56:38",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-03 07:14:15",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:56:38",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-03 07:14:15",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288915,
+    "CategoryID": 36504,
+    "CustomerID": 97964,
+    "CustomerName": "Phelps Pollard",
+    "CustomerEmail": "phelps.pollard@neoassist.com",
+    "DateCreate": "2018-12-04 06:50:56",
+    "DateUpdate": "2019-01-21 06:50:42",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-04 06:50:56",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:50:42",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288916,
+    "CategoryID": 31646,
+    "CustomerID": 97985,
+    "CustomerName": "Mable Terrell",
+    "CustomerEmail": "mable.terrell@neoassist.com",
+    "DateCreate": "2018-12-17 02:27:22",
+    "DateUpdate": "2019-01-21 12:32:57",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 02:27:22",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:32:57",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288917,
+    "CategoryID": 68938,
+    "CustomerID": 97902,
+    "CustomerName": "Williamson Gardner",
+    "CustomerEmail": "williamson.gardner@neoassist.com",
+    "DateCreate": "2018-12-24 03:56:27",
+    "DateUpdate": "2019-01-21 06:37:17",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-24 03:56:27",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:37:17",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288918,
+    "CategoryID": 59181,
+    "CustomerID": 97903,
+    "CustomerName": "Edith Stone",
+    "CustomerEmail": "edith.stone@neoassist.com",
+    "DateCreate": "2018-12-25 10:37:45",
+    "DateUpdate": "2019-01-21 02:24:29",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-25 10:37:45",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:24:29",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288919,
+    "CategoryID": 32769,
+    "CustomerID": 97992,
+    "CustomerName": "Cynthia Moses",
+    "CustomerEmail": "cynthia.moses@neoassist.com",
+    "DateCreate": "2019-01-04 02:17:11",
+    "DateUpdate": "2019-01-21 05:59:49",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-04 02:17:11",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:59:49",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288920,
+    "CategoryID": 11366,
+    "CustomerID": 97976,
+    "CustomerName": "Wells Downs",
+    "CustomerEmail": "wells.downs@neoassist.com",
+    "DateCreate": "2018-12-27 09:00:01",
+    "DateUpdate": "2019-01-21 10:03:36",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-27 09:00:01",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 10:03:36",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288921,
+    "CategoryID": 58009,
+    "CustomerID": 97994,
+    "CustomerName": "Craft Hansen",
+    "CustomerEmail": "craft.hansen@neoassist.com",
+    "DateCreate": "2018-12-06 04:43:34",
+    "DateUpdate": "2019-01-21 08:38:15",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-06 04:43:34",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 08:38:15",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288922,
+    "CategoryID": 11200,
+    "CustomerID": 97952,
+    "CustomerName": "Lilia Bird",
+    "CustomerEmail": "lilia.bird@neoassist.com",
+    "DateCreate": "2018-12-29 04:26:41",
+    "DateUpdate": "2019-01-21 10:15:45",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-29 04:26:41",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 10:15:45",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288923,
+    "CategoryID": 28745,
+    "CustomerID": 97950,
+    "CustomerName": "Mcfarland Gonzales",
+    "CustomerEmail": "mcfarland.gonzales@neoassist.com",
+    "DateCreate": "2018-12-10 02:02:38",
+    "DateUpdate": "2019-01-21 08:54:49",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-10 02:02:38",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 08:54:49",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-10 02:02:38",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288924,
+    "CategoryID": 65738,
+    "CustomerID": 97958,
+    "CustomerName": "Mcgowan Farley",
+    "CustomerEmail": "mcgowan.farley@neoassist.com",
+    "DateCreate": "2018-12-03 04:13:53",
+    "DateUpdate": "2019-01-21 12:39:23",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-03 04:13:53",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:39:23",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-03 04:13:53",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288925,
+    "CategoryID": 37243,
+    "CustomerID": 97930,
+    "CustomerName": "Juliana Roberson",
+    "CustomerEmail": "juliana.roberson@neoassist.com",
+    "DateCreate": "2018-12-19 06:23:20",
+    "DateUpdate": "2019-01-21 05:24:46",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-19 06:23:20",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:24:46",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-19 06:23:20",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288926,
+    "CategoryID": 52660,
+    "CustomerID": 97926,
+    "CustomerName": "Jeanne Lyons",
+    "CustomerEmail": "jeanne.lyons@neoassist.com",
+    "DateCreate": "2019-01-02 07:37:01",
+    "DateUpdate": "2019-01-21 07:26:03",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-02 07:37:01",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 07:26:03",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-02 07:37:01",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288927,
+    "CategoryID": 38868,
+    "CustomerID": 97963,
+    "CustomerName": "Sandoval Bradshaw",
+    "CustomerEmail": "sandoval.bradshaw@neoassist.com",
+    "DateCreate": "2018-12-17 12:57:41",
+    "DateUpdate": "2019-01-21 01:11:10",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 12:57:41",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:11:10",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288928,
+    "CategoryID": 54291,
+    "CustomerID": 97941,
+    "CustomerName": "Roberts Oneill",
+    "CustomerEmail": "roberts.oneill@neoassist.com",
+    "DateCreate": "2018-12-11 10:46:25",
+    "DateUpdate": "2019-01-21 01:56:15",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-11 10:46:25",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:56:15",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288929,
+    "CategoryID": 27763,
+    "CustomerID": 97930,
+    "CustomerName": "Cameron Velasquez",
+    "CustomerEmail": "cameron.velasquez@neoassist.com",
+    "DateCreate": "2018-12-21 02:39:51",
+    "DateUpdate": "2019-01-21 04:51:02",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-21 02:39:51",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:51:02",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288930,
+    "CategoryID": 30776,
+    "CustomerID": 97997,
+    "CustomerName": "Robinson Davidson",
+    "CustomerEmail": "robinson.davidson@neoassist.com",
+    "DateCreate": "2018-12-18 03:40:53",
+    "DateUpdate": "2019-01-21 02:19:12",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-18 03:40:53",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:19:12",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288931,
+    "CategoryID": 36618,
+    "CustomerID": 97993,
+    "CustomerName": "Allen Park",
+    "CustomerEmail": "allen.park@neoassist.com",
+    "DateCreate": "2019-01-03 07:38:29",
+    "DateUpdate": "2019-01-21 02:07:49",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-03 07:38:29",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:07:49",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288932,
+    "CategoryID": 57977,
+    "CustomerID": 97991,
+    "CustomerName": "Cherry Mercer",
+    "CustomerEmail": "cherry.mercer@neoassist.com",
+    "DateCreate": "2019-01-03 06:21:09",
+    "DateUpdate": "2019-01-21 08:57:34",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-03 06:21:09",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 08:57:34",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-03 06:21:09",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288933,
+    "CategoryID": 62838,
+    "CustomerID": 97985,
+    "CustomerName": "Maura Nicholson",
+    "CustomerEmail": "maura.nicholson@neoassist.com",
+    "DateCreate": "2018-12-29 12:59:04",
+    "DateUpdate": "2019-01-21 01:19:06",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-29 12:59:04",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:19:06",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-29 12:59:04",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288934,
+    "CategoryID": 33898,
+    "CustomerID": 97969,
+    "CustomerName": "Dee Miranda",
+    "CustomerEmail": "dee.miranda@neoassist.com",
+    "DateCreate": "2018-12-06 07:17:51",
+    "DateUpdate": "2019-01-21 07:50:28",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-06 07:17:51",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 07:50:28",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-06 07:17:51",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288935,
+    "CategoryID": 8551,
+    "CustomerID": 97970,
+    "CustomerName": "Alyssa Duffy",
+    "CustomerEmail": "alyssa.duffy@neoassist.com",
+    "DateCreate": "2018-12-01 10:36:41",
+    "DateUpdate": "2019-01-21 02:50:55",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-01 10:36:41",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 02:50:55",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288936,
+    "CategoryID": 66408,
+    "CustomerID": 97994,
+    "CustomerName": "Jackie Spence",
+    "CustomerEmail": "jackie.spence@neoassist.com",
+    "DateCreate": "2018-12-10 10:31:34",
+    "DateUpdate": "2019-01-21 03:01:10",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-10 10:31:34",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 03:01:10",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288937,
+    "CategoryID": 67029,
+    "CustomerID": 97974,
+    "CustomerName": "Mercedes Huber",
+    "CustomerEmail": "mercedes.huber@neoassist.com",
+    "DateCreate": "2018-12-17 02:01:01",
+    "DateUpdate": "2019-01-21 10:50:35",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 02:01:01",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 10:50:35",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 02:01:01",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288938,
+    "CategoryID": 34681,
+    "CustomerID": 97901,
+    "CustomerName": "Tillman Stanton",
+    "CustomerEmail": "tillman.stanton@neoassist.com",
+    "DateCreate": "2018-12-13 12:06:40",
+    "DateUpdate": "2019-01-21 12:17:37",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-13 12:06:40",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 12:17:37",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-13 12:06:40",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288939,
+    "CategoryID": 52180,
+    "CustomerID": 97917,
+    "CustomerName": "Wood Travis",
+    "CustomerEmail": "wood.travis@neoassist.com",
+    "DateCreate": "2018-12-05 12:43:06",
+    "DateUpdate": "2019-01-21 09:59:30",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-05 12:43:06",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 09:59:30",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288940,
+    "CategoryID": 61637,
+    "CustomerID": 97962,
+    "CustomerName": "Castaneda Hill",
+    "CustomerEmail": "castaneda.hill@neoassist.com",
+    "DateCreate": "2019-01-04 03:10:18",
+    "DateUpdate": "2019-01-21 10:12:14",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-04 03:10:18",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 10:12:14",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288941,
+    "CategoryID": 12021,
+    "CustomerID": 97902,
+    "CustomerName": "Blair Robinson",
+    "CustomerEmail": "blair.robinson@neoassist.com",
+    "DateCreate": "2019-01-02 11:38:10",
+    "DateUpdate": "2019-01-21 06:32:11",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-02 11:38:10",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:32:11",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288942,
+    "CategoryID": 55703,
+    "CustomerID": 97926,
+    "CustomerName": "Galloway Peck",
+    "CustomerEmail": "galloway.peck@neoassist.com",
+    "DateCreate": "2018-12-17 04:15:05",
+    "DateUpdate": "2019-01-21 01:41:22",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-17 04:15:05",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:41:22",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288943,
+    "CategoryID": 58288,
+    "CustomerID": 97998,
+    "CustomerName": "Carver Salazar",
+    "CustomerEmail": "carver.salazar@neoassist.com",
+    "DateCreate": "2018-12-08 10:33:56",
+    "DateUpdate": "2019-01-21 05:39:28",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-08 10:33:56",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 05:39:28",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288944,
+    "CategoryID": 8376,
+    "CustomerID": 97984,
+    "CustomerName": "Kay Klein",
+    "CustomerEmail": "kay.klein@neoassist.com",
+    "DateCreate": "2018-12-12 04:09:43",
+    "DateUpdate": "2019-01-21 01:46:10",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-12 04:09:43",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:46:10",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-12 04:09:43",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288945,
+    "CategoryID": 39416,
+    "CustomerID": 97929,
+    "CustomerName": "Lena Rogers",
+    "CustomerEmail": "lena.rogers@neoassist.com",
+    "DateCreate": "2018-12-03 04:43:57",
+    "DateUpdate": "2019-01-21 01:48:44",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-03 04:43:57",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 01:48:44",
+        "Sender": "Expert"
+      }
+    ]
+  },
+  {
+    "TicketID": 288946,
+    "CategoryID": 21376,
+    "CustomerID": 97954,
+    "CustomerName": "Dena Waters",
+    "CustomerEmail": "dena.waters@neoassist.com",
+    "DateCreate": "2018-12-30 09:29:25",
+    "DateUpdate": "2019-01-21 06:11:51",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-30 09:29:25",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:11:51",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-30 09:29:25",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288947,
+    "CategoryID": 61638,
+    "CustomerID": 97985,
+    "CustomerName": "Vicki Jacobson",
+    "CustomerEmail": "vicki.jacobson@neoassist.com",
+    "DateCreate": "2018-12-06 01:00:54",
+    "DateUpdate": "2019-01-21 09:52:12",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-06 01:00:54",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 09:52:12",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-06 01:00:54",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288948,
+    "CategoryID": 58026,
+    "CustomerID": 97956,
+    "CustomerName": "Bettye Morin",
+    "CustomerEmail": "bettye.morin@neoassist.com",
+    "DateCreate": "2018-12-27 06:23:24",
+    "DateUpdate": "2019-01-21 06:10:58",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-27 06:23:24",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 06:10:58",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-27 06:23:24",
+        "Sender": "Customer"
+      }
+    ]
+  },
+  {
+    "TicketID": 288949,
+    "CategoryID": 25809,
+    "CustomerID": 97960,
+    "CustomerName": "Adela Sears",
+    "CustomerEmail": "adela.sears@neoassist.com",
+    "DateCreate": "2018-12-22 05:44:00",
+    "DateUpdate": "2019-01-21 04:42:10",
+    "Interactions": [
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-22 05:44:00",
+        "Sender": "Customer"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2019-01-21 04:42:10",
+        "Sender": "Expert"
+      },
+      {
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "DateCreate": "2018-12-22 05:44:00",
+        "Sender": "Customer"
+      }
+    ]
+  }
+]

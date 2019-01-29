@@ -1,0 +1,49 @@
+Nome: Marcelo Gomes do Nascimento email : marcelogn2010@hotmail.com
+Projeto Neo assist sobre o ticket
+COnsiderações: De acordo com o que foi passado e pelo meu entendimento, cheguei a conclusão que as classificações dos tickets precisariam ter um foco bem mais nos tickets com prioridade alta, pois os tickets de prioridades alta, ou nao foram feitos, ou estão com algum problema serio para ser resolvido, ou muitas vezes nem vistos, os normais não que não tenham prioridades grandes, mais são tickets que podem esperar um pouco. Então criei um algoritmo focando na organização muitas vezes para o ticket com prioridade alta ou um ticket considerado prioridade alta seja atendido mais rápido.
+
+1 - Tela inicial = tela_inicial.php  = Nela mostro quantos registro de tickets tem no arquivo json, nela existe um botão para inserir os arquivos json (botão chamado Inserir tickets no banco), e também tem um botão com formato redondo, em vermelho, que mostrar a quantidade de tickets com prioridade alta, se voce clicar nele ele vai direto a tela de tickets_cad.php , trazendo a informação e selecionando a prioridade alta como selecionada e trazendo as informações de tickets ja em prioridade alta.
+
+2 - tickets_cad.php - Tela aonde você pode buscar , os tickets por data inicial e data final e tambem por prioridade, em cima de informação tickets, existem dois quadros, um em cor vermelha , e um em cor amarela..
+
+Cor vermelha = Explica que o ticket está com prioridade alta 
+Cor amarela = Explica que o ticket está com prioridade normal
+
+Quando fazemos a buscar pelo buscar informação , ele buscar de acordo com os parâmetros colocados, depois de trazer as informações com ele, vem com três botôes um de cor azul chamado verificar interações, cor vermelha - selecionar prioridade e um de cor verde que é buscar histórico...
+
+Botao Verificar interações - nele se abre um modal com as informações das interações desse ticket, mostrar as mensagens para quem é o remetente, também nele se conta quantos foram as mensagens em customer e quantas foram para expert, e mostra quantos dias ele está aberto entre o dia de inicio dele até sua atualização, quando se passa de 3 dias , eu mostro um botão para que voce cadastre ele em prioridade, pensando no foco dos prioridades alta serem feitos mais rápidos, então ele vai te mostrar um botão explicando para você selecionar prioridade alta, ou se for menor ele te tras o botão de prioridade normal, se voce escolher qualquer umas das prioridades, eu entendo qual prioridade você quer cadastrar e te mostro uma mensagem, sobre a prioridade escolhida e ja seto as informações da prioridade selecionada, e depois que você fazer tudo ainda atualizo a tabela com a cor , tudo automático, para você nao perder o foco da tela , tudo concentrado em uma tela só , lembrando que se você nao quiser deixar o select na prioridade selecionada, você pode selecionar outra
+
+Botao selecionar prioridade - se você nao for pelo botao que tem dentro do modal de verificar interações e clicar no modal de prioridade, você pode ir pelo botão de selecionar prioridade e escolher qual você quer...
+
+Botão de histórico de prioridade, e para saber como anda o encaminhamento desse ticket, sobre as prioridades, então eu salvo a prioridade o dia que foi atualizado, e para qual prioridade foi , te mostrando, muitas vezes ajudando na tomada de ação em cima desse ticket...
+
+Na mesma tela existe dois botões de gerar arquivo json e download do arquivo json, o gerar arquivo json só aparece depois da informação na sua tela, e o buscar json depois que o arquivo está preparado para download...
+
+O nome do arquivo está na pasta json/arquivo_neo, com os tickets e interações
+
+Os esquemas de api estão na página index.php 
+São elas 
+
+http://localhost/projeto_neoassist/gerarInformacaoParametroJson
+Outra forma de usar ela tambem e colocando a porta usada 
+http://localhost:8080/projeto_neoassist/gerarInformacaoParametroJson
+
+http://localhost/projeto_neoassist/inseririnformacaobanco
+Outra forma de se usar ela também é colocando a porta usada
+http://localhost:8080/projeto_neoassist/inseririnformacaobanco
+
+
+http://localhost/projeto_neoassist/buscarInformacaoParametro
+Outra forma de se usar ela também é colocando a porta usada
+http://localhost:8080/projeto_neoassist/buscarInformacaoParametro
+
+Para criar as api usei o slim framework carregado via autoload com composer
+
+Controllers.php é a tela onde faço as coisas que pede para inserir, buscar informação, e gerar os arquivos
+
+Para gerar o banco por favor colocar o nome da base como tickets_neo e usar o arquivo de importação chamado tickets_neo2501.sql ele vai gerar a estrutura certa do projeto
+
+Considerações finais
+
+Agradeço por querer conhecer um pouco sobre mim, e meu conhecimento técnico, acredito que a tecnologia ajuda a todos,  isso que mostro é um pouco daquilo que aprendi, tanto no projeto como dia a dia, agradeço a oportunidade, e espero que todos gostem da empresa
+Para qualquer dúvida estou a disposição
